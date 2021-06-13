@@ -2,7 +2,7 @@
 mostrar los nombres de los estudiantes de la carrera ingeniería en computación. */
 
 let alumnos = [
-    { nombre: "Ema", carrera: "Ingenieria en computacion" },
+    { nombre: "Ema", carrera: "Ingenieria en computacion"},
     { nombre: "Luis", carrera: "Produccion audiovisual" },
     { nombre: "Pablo", carrera: "Licenciatura en sistemas" },
     { nombre: "Meison", carrera: "Ingenieria en computacion" },
